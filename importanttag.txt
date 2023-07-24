@@ -1,0 +1,16 @@
+<i class="fa-solid fa-trash"></i> //delete
+<i class="fa-solid fa-pen-to-square"></i> editIcon
+
+delete operation
+1.icon must me click able;
+2.add click event(this)->icon->Parent->Td->parent->Tr 
+
+
+4.icon has Id ,so fetch the id and search it in array eg 
+find,u get an object is marked = true;
+5. count mark - Count thoes object in array whose isMarked=true,opposite
+
+
+principle:
+  SRP - follow in every code-project;
+  Single Responsibility Principle

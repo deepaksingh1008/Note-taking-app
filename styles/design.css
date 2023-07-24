@@ -1,0 +1,25 @@
+.hand{
+     cursor: pointer;
+}
+.hand:hover{
+    color:red;
+}
+.mar{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+#searchBtn{
+    margin-left: 5px;
+}
+
+.icon{
+    display: block;
+}
+.icon i{
+    cursor: pointer;
+
+}
+i:hover{
+    color: brown;
+}
